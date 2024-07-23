@@ -1,0 +1,73 @@
+{
+    "value": [
+      {
+        "id": "1065e6a3-a020-4c0c-ada7-92b5fe99eec5",
+        "type": "Deploy",
+        "status": "Succeeded",
+        "lastUpdatedTime": "2020-12-13T09:26:43.153",
+        "executionStartTime": "2020-12-13T09:25:43.153Z",
+        "executionEndTime": "2020-12-13T09:26:43.153Z",
+        "sourceStageOrder": 0,
+        "targetStageOrder": 1,
+        "note": {
+          "content": "Sample note",
+          "isTruncated": false
+        },
+        "preDeploymentDiffInformation": {
+          "newArtifactsCount": 0,
+          "differentArtifactsCount": 0,
+          "noDifferenceArtifactsCount": 1
+        },
+        "performedBy": {
+          "userPrincipalName": "john@contoso.com",
+          "principalType": "User"
+        }
+      },
+      {
+        "id": "1066",
+        "type": "Deploy",
+        "status": "Succeeded",
+        "lastUpdatedTime": "2020-12-14T09:26:43.153",
+        "executionStartTime": "2020-14-13T09:25:43.153Z",
+        "executionEndTime": "2020-12-14T09:26:43.153Z",
+        "sourceStageOrder": 0,
+        "targetStageOrder": 1,
+        "note": {
+          "content": "Sample note2",
+          "isTruncated": false
+        },
+        "preDeploymentDiffInformation": {
+          "newArtifactsCount": 0,
+          "differentArtifactsCount": 0,
+          "noDifferenceArtifactsCount": 1
+        },
+        "performedBy": {
+          "userPrincipalName": "kamal@contoso.com",
+          "principalType": "User"
+        }
+      },
+      {
+        "id": "1067",
+        "type": "Deploy",
+        "status": "Succeeded",
+        "lastUpdatedTime": "2020-12-14T09:26:43.153",
+        "executionStartTime": "2020-14-13T09:25:43.153Z",
+        "executionEndTime": "2020-12-14T09:26:43.153Z",
+        "sourceStageOrder": 0,
+        "targetStageOrder": 1,
+        "note": {
+          "content": "Sample note2",
+          "isTruncated": false
+        },
+        "preDeploymentDiffInformation": {
+          "newArtifactsCount": 0,
+          "differentArtifactsCount": 0,
+          "noDifferenceArtifactsCount": 1
+        },
+        "performedBy": {
+          "userPrincipalName": "kamal@contoso.com",
+          "principalType": "User"
+        }
+      }      
+    ]
+  }
