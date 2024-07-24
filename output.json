@@ -1,4 +1,5 @@
-      {
+[
+{
         "id": "1065e6a3-a020-4c0c-ada7-92b5fe99eec5",
         "type": "Deploy",
         "status": "Succeeded",
@@ -67,3 +68,4 @@
           "principalType": "User"
         }
       }
+]
