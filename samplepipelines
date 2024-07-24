@@ -1,0 +1,27 @@
+{
+  "value": [
+    {
+      "id": "1065e6a3-a020-4c0c-ada7-92b5fe99eec5",
+      "type": "Deploy",
+      "status": "Succeeded",
+      "lastUpdatedTime": "2020-12-13T09:26:43.153",
+      "executionStartTime": "2020-12-13T09:25:43.153Z",
+      "executionEndTime": "2020-12-13T09:26:43.153Z",
+      "sourceStageOrder": 0,
+      "targetStageOrder": 1,
+      "note": {
+        "content": "Sample note",
+        "isTruncated": false
+      },
+      "preDeploymentDiffInformation": {
+        "newArtifactsCount": 0,
+        "differentArtifactsCount": 0,
+        "noDifferenceArtifactsCount": 1
+      },
+      "performedBy": {
+        "userPrincipalName": "john@contoso.com",
+        "principalType": "User"
+      }
+    }
+  ]
+}
